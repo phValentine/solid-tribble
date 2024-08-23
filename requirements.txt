@@ -1,6 +1,6 @@
 voila
 matplotlib
-sklearn
+scikit-learn
 seaborn
 numpy
 ipywidgets
